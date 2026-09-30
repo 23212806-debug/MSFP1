@@ -1,9 +1,10 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=23212806-debug/MSFP1)
 
 # Práctica 1: Diseño de controladores
 
 ## Información de la estudiante
 
-Martinez Lozano Pedro Damian \ 23212806 ; 23212806@tectijuana.edu.mx
+Nombres y Apellidos \[No. Control]; correo institucional
 
 Modelado de Sistemas Fisiológicos
 
