@@ -1,4 +1,3 @@
-\[!\[Open in MATLAB Online]
 
 # Práctica 1: Diseño de controladores
 
