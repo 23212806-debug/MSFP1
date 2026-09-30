@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Pedro Damian Martinez Lozano \ 23212806 ; 23212806@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
